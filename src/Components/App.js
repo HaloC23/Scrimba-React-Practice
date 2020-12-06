@@ -1,9 +1,9 @@
 import React from "react";
 
-function MyInfo() {
+function App() {
   return (
     <div>
-      <h1> Travelling </h1>
+      <h1> In the new year </h1>
       <p> Where I would like to go... </p>
       <ul>
         <li>Japan</li>
@@ -14,4 +14,4 @@ function MyInfo() {
   );
 }
 
-export default MyInfo;
+export default App;
