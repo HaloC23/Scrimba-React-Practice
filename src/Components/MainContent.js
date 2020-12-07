@@ -1,5 +1,5 @@
 import React from "react";
-function Main() {
+function MainContent() {
   return (
     <div>
       <main>
@@ -11,4 +11,4 @@ function Main() {
     </div>
   );
 }
-export default Main;
+export default MainContent;
