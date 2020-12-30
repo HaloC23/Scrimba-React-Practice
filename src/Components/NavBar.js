@@ -3,12 +3,12 @@ function NavBar() {
   return (
     <div>
       <nav>
-        <h1> In the new year </h1>
-        <p> Where I would like to go... </p>
+        <h1 className="NavBar"> In the new year </h1>
+        <p className="GoWhere"> Where I would like to go... </p>
         <ul>
-          <li>Japan</li>
-          <li>Canada</li>
-          <li>Thailand</li>
+          <li className="Japan">Japan</li>
+          <li className="Canada">Canada</li>
+          <li className="Thai">Thailand</li>
         </ul>
       </nav>
     </div>

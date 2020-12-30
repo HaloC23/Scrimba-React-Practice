@@ -1,3 +1,45 @@
 body {
   font-family: sans-serif;
 }
+.NavBar {
+  background-color: #333d5e;
+  height: 95px;
+  color: #e6a0c4;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.GoWhere {
+  margin-bottom: 15px;
+  text-align: left;
+  font-size: 20px;
+  color: #1b346c;
+  font-style: oblique;
+}
+.Japan {
+  color: #798e87;
+  letter-spacing: 0.5px;
+}
+.Canada {
+  color: #a45e60;
+}
+.Thai {
+  color: #11698e;
+}
+li {
+  padding: 5px;
+}
+ul {
+  list-style: none;
+  font-weight: 600;
+}
+.TextOne {
+  color: #0f3057;
+  background: #ffcda3;
+}
+footer {
+  color: #f37121;
+}
