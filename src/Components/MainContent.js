@@ -4,8 +4,7 @@ function MainContent() {
     <div>
       <main>
         <p className=" TextOne">
-          Some rather obsure sample text or speech about some nonsensical
-          nonsene.
+          Each place holds a fortune of culture and wonders.
         </p>
       </main>
     </div>
