@@ -40,6 +40,11 @@ ul {
   color: #0f3057;
   font-weight: bold;
 }
-footer {
+.CodedBy {
   color: #f37121;
+}
+.Opin {
+  color: #6a7db7;
+  display: flex;
+  justify-content: center;
 }
